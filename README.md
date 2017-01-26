@@ -12,6 +12,7 @@ INSTALL PROCEDURES:
 - Download Vuo SDK and install in ~/SDKs/vuo-1.2.5-sdk
 - Download ARToolkit5 SDK ( http://www.artoolkit.org/dist/artoolkit5/5.3/ARToolKit5-bin-5.3.2r1-OSX.tar.gz ) and install it in  ~/SDKs/ARToolKit5-bin-5.3.2r1-OSX
 - Download this repository and install it in ~/SDKs/vuo-1.2.5-sdk/example/node/detect
+- Open detect.ARToolkit.pro file with QT creator. When it asks you which kit use, choose "Desktop".
 
 
 Don't expect it can run neither compile!'
